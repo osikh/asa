@@ -3,8 +3,6 @@
 ASO audit tool for Apple App Store listings.
 Takes an App Store URL, fetches listing data, analyzes it with a Mastra workflow, and returns an ASO score with recommendations.
 
-### Walkthrough Video => [Youtube](https://youtu.be/w229kxNMgvI)
-
 ## Demo
 
 ![Store Audit demo](./sample.gif)
